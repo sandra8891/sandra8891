@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandra</h1>
 <h3 align="center">A passionate fullstuck developer from India</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500" margin-left=600>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandra8891&label=Profile%20views&color=0e75b6&style=flat" alt="sandra8891" /> </p>
